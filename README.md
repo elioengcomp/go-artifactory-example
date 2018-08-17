@@ -43,5 +43,5 @@ jfrog rt gp <GO_LOCAL_REPO> <VERSION> --server-id=<ARTIFACTORY_ID> --deps=ALL --
 Example:
 
 ```
-jfrog rt gp go-local v1.0.1 --server-id=orbitera --deps=ALL --self=true
+jfrog rt gp go-local v1.0.1 --server-id=artifactory --deps=ALL --self=true
 ```
