@@ -2,8 +2,8 @@
 
 ## Dependencies
 
-- JFrog CLI 1.17.1
-- Go 1.11beta2
+- JFrog CLI 1.19.1
+- Go 1.11
 
 ## Set Go Home
 ```
